@@ -51,8 +51,8 @@ npx wdio run wdio.conf.js
 ## Images 
 
 <p>
-  <img src="/pic1.jpeg" width="500"/>
-  <img src="/pic2.jpeg" width="500"/>
+  <img src="/pic1.jpeg" width="450"/>
+  <img src="/pic2.jpeg" width="450"/>
 </p>
 
 
