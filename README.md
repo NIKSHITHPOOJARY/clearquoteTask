@@ -3,11 +3,11 @@
 This repository contains the assignment to automate the testing of the ClearQuote Assessment mobile app using Node.js and Appium. The automation script performs tasks such as logging in, navigating through the app, performing a vehicle inspection, capturing images, and completing the inspection process.
 
 
-## Project Description
+## Description
 
 The ClearQuote Assignment aims to automate the testing process for the ClearQuote Assessment app available on the Google Play Store. The automation script uses WebdriverIO and Appium to perform various tasks within the app.
 
-## Setup Instructions
+## Setup 
 
 To set up the project locally, follow these steps:
 
