@@ -7,6 +7,7 @@ This repository contains the assignment to automate the testing of the ClearQuot
 
 The ClearQuote Assignment aims to automate the testing process for the ClearQuote Assessment app available on the Google Play Store. The automation script uses WebdriverIO and Appium to perform various tasks within the app.
 
+
 ## Setup 
 
 To set up the project locally, follow these steps:
@@ -36,7 +37,8 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-To use the automation script, make sure all dependencies are installed and the `wdio.conf.js` file is properly configured.
+To use the automation script, make sure all dependencies are installed and the `wdio.conf.js` file is properly configured
+
 
 ## Running Tests
 
@@ -44,3 +46,16 @@ To run the tests, use the following command:
 
 ```sh
 npx wdio run wdio.conf.js
+```
+
+## Images 
+
+<p>
+  <img src="/pic1.jpeg" width="500"/>
+  <img src="/pic2.jpeg" width="500"/>
+</p>
+
+
+
+
+
